@@ -2,6 +2,8 @@
 
 Implemented Korean programming in C#
 
+[![Development Note p.207](https://img.youtube.com/vi/890VAWSv2Dk/0.jpg)](https://www.youtube.com/watch?v=890VAWSv2Dk)
+
 # **Links(링크)**
 
 * [JkhTV YouTube(장경혁tv)](https://www.youtube.com/channel/UC0lR1aYGgOhFioC3IsazUtw)
